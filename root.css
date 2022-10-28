@@ -1,0 +1,28 @@
+:root {
+    
+    --Eblue: #8BA3C7;
+    --Dblue: #19325F;
+    --DullG: #BC836B;
+    --Tan: #B26D5D;
+    --Rice: #EEEAD9;
+    --text_color: var(--Dblue);
+    --text_color_hover: var(--Eblue);
+
+    --text_color_2: var(--Rice);
+    --title_text: 40px;
+    --subtitle_text: 20px;
+    --lg_text: 30px;
+    --med_text: 25px;
+    --small_text: 15px;
+    
+    --img_height: 435px;
+    --img_width: 500px;
+
+    --logo_size: 150px;
+}
+
+@media screen and (max-width: 550px){
+    .width_img {
+        width: 80vw;
+    }
+}
