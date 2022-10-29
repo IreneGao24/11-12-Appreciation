@@ -126,7 +126,7 @@ li {
     z-index: 998;
     width: 100%;
     min-height: 100%;
-    background: var(--logo_orange);
+    background: var(--Rice);
     top: 0;
     left: 0;
     transition: 0.3s ease-in-out;
@@ -178,7 +178,7 @@ li {
 .bar1, .bar2, .bar3 {
     width: 35px;
     height: 5px;
-    background-color: var(--dark);
+    background-color: var(--Dblue);
     margin: 6px 0;
     transition: 0.4s;
 }
